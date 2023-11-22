@@ -1,0 +1,6 @@
+/data
+/model/CrossModel/.vscode
+/model/CrossModel/outputs/*
+/model/CrossModel/saved_data
+/model/CrossModel/saved_models
+/model/CrossModel/__pycache__

@@ -33,7 +33,7 @@ source code for paper: Heterogeneous Graph Convolutional Neural Networks For Arg
 # step 2: create virtual envrioment
 conda create -n HGAT python=3.8
 # step 3: step into CrossModel directory, and install dependency
-pip install -r requirment.txt
+pip install -r requirments.txt
 # step 4: train model
 python main.py
 ~~~
